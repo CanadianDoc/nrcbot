@@ -1,0 +1,28 @@
+{
+  "name": "nrcbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CanadianDoc/nrcbot.git"
+  },
+  "author": "Doc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CanadianDoc/nrcbot/issues"
+  },
+  "homepage": "https://github.com/CanadianDoc/nrcbot#readme",
+  "dependencies": {
+    "@discordjs/rest": "^2.2.0",
+    "ascii-table": "^0.0.9",
+    "discord-api-types": "^0.37.65",
+    "discord.js": "^14.14.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
